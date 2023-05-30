@@ -10,3 +10,5 @@ onnx
 open_clip_torch
 transformers
 ultralytics
+chardet
+charset_normalizer==3.1.0
