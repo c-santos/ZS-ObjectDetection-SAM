@@ -1,0 +1,12 @@
+torch>=2.0.1
+torchvision>=0.15.2
+nvidia-pytriton
+validators
+opencv-python
+pycocotools
+matplotlib
+onnxruntime
+onnx
+open_clip_torch
+transformers
+ultralytics
