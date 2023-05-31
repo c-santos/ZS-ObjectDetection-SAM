@@ -17,3 +17,7 @@ Create a folder named `cropped` for cropped image masks.
 pip install -r requirements.txt
 ```
 
+
+## Diagram
+
+![Program Flow of Project](/images/flow.jpg)
